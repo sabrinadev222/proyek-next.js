@@ -26,7 +26,7 @@ export const projects: Project[] = [
   },
   {
     name: "Profile Github",
-    description: "Percobaan dengan React dan Vercel",
+    description: "Profil Github yang belum suhu",
     github: "https://github.com/sabrinadev222",
   },
 ];
