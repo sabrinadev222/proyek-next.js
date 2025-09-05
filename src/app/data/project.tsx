@@ -24,4 +24,9 @@ export const projects: Project[] = [
     github: "https://github.com/sabrinadev222/react.git",
     Deploy: "https://react-two-liart-69.vercel.app/",
   },
+  {
+    name: "Profile Github",
+    description: "Percobaan dengan React dan Vercel",
+    github: "https://github.com/sabrinadev222",
+  },
 ];
