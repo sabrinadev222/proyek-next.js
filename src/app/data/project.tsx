@@ -10,11 +10,11 @@ export const projects: Project[] = [
     name: "Potofolio Website",
     description: "Website Portofolio sederhana dengan React",
     github: "https://github.com/sabrinadev222/project-portotvite.git",
-    Deploy: "https://portofoliomodif.netlify.app/",
+    Deploy: "https://portovite.netlify.app//",
   },
   {
     name: "Portofolio Revisi Web",
-    description: "Revisi portofolio website menggunakan Vercel",
+    description: "Revisi portofolio website menggunakan vite dan dideploy Vercel",
     github: "https://github.com/sabrinadev222/Portofolio-revisi-web.git",
     Deploy: "https://portofolio-revisi-web-git-main-sabrina-vivias-projects.vercel.app/",
   },
